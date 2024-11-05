@@ -12,7 +12,7 @@ p.s. ideally if you recently donу this job.
 git clone https://github.com/PD-22/uweyvs.git
 cd uweyvs
 npm install
-node index.js
+npm run dev
 ```
 
 ## Demonstration
